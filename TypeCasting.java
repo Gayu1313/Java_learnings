@@ -10,5 +10,10 @@ public class TypeCasting{
         //Implicit type casting
         int x=7;
         
+        //Explicit type casting
+        int y=6
+        int z=12;
+        System.out.println("y/z"+((float)y/z));
+        
     }
 }
